@@ -1,0 +1,32 @@
+#gaddarpic {
+  height: 200px;
+  width: auto;
+  border-radius: 9px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+#spacer-gaddar {
+  height: 50px;
+}
+
+#gaddar-txt {
+  padding: 0px 30px;
+  text-align: justify;
+}
+
+#gaddar-name {
+  margin-bottom: 5px;
+}
+
+#adminvdo {
+  height: 500px;
+}
+
+#adminvdo-filter {
+
+  height: 500px;
+}
+.just{
+  text-align: justify;
+}
