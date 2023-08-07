@@ -27,6 +27,23 @@
 
   height: 500px;
 }
-.just{
+
+.just {
   text-align: justify;
 }
+
+#leader-words-mobile {
+  display: none;
+}
+
+@media only screen and (max-width: 800px) {
+  #leader-words {
+    display: none;
+  }
+}
+@media only screen and (max-width: 799px) {
+  #leader-words-mobile {
+    display: block;
+  }
+}
+
